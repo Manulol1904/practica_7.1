@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            TU_USUARIO/practica_7.1:latest
-            ghcr.io/TU_USUARIO/practica_7.1:latest
+            manuel1904/practica_7.1:latest
+            ghcr.io/manulol1904/practica_7.1:latest
